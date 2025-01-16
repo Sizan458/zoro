@@ -24,6 +24,7 @@ Create your unique and exclusive shirt with our brand-new 3D customization tool.
 - THREE Js
 - React three fiber
 -  React three drei
+-  Tailwind css
 ## 🔗 Links
 
 
